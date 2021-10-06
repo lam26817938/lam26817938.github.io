@@ -1,12 +1,12 @@
 body{
-    background-color: aqua;
+    background-color: rgb(212, 235, 235);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .assignment{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background-color: chocolate;
+    background-color: rgb(240, 191, 156);
 }
 .assignment img{
     width: 200px;
