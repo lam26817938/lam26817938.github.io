@@ -2,8 +2,12 @@ body{
     background-color: rgb(212, 235, 235);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.assignment{
+.assignments{
     display: flex;
+    flex-wrap:wrap;
+}
+.assignment{
+    width:22%;
     padding: 10px;
     margin: 10px;
     background-color: rgb(240, 191, 156);
@@ -11,7 +15,8 @@ body{
 .assignment img{
     width: 200px;
     padding: 10px;
-
+    display: block;
+    margin:auto;
 }
 h1{
     color: rgb(19, 228, 158);
