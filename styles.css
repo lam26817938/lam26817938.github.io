@@ -22,3 +22,9 @@ h1{
     color: rgb(19, 228, 158);
     text-align: center;
 }
+h2{
+    text-align: center;
+}
+.assignments img:hover{
+    border:4px dashed fuchsia
+}
